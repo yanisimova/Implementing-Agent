@@ -1,0 +1,14 @@
+{
+  "emerging_technology": "Generative AI (large language models)",
+  "intended_application": "Drafting client-facing consulting engagement summaries from approved source materials, with human review before release",
+  "industry_sector": "Management and analytics consulting",
+  "business_need": "Shorten initial summary drafting while preserving accuracy and client trust",
+  "users_stakeholders": "Consultants, reviewing managers, clients, operations and information-security stakeholders",
+  "risk_consequence_context": "Client confidentiality, fabricated or unsupported statements, reputational exposure, and inefficient human review",
+  "management_question": "Should management proceed with a limited pilot or operational rollout, and what readiness actions must come first?",
+  "time_horizon": "Next 90 days",
+  "additional_context": "Classroom hypothetical for contrast testing; organizational facts below are stipulated case assumptions, not evidence of real firms. No client contractual permissions or vendor data-retention terms provided.",
+  "organization": "Established consulting enterprise (hypothetical, 400 consultants)",
+  "adoption_posture": "Moderate, risk-governed staged experimentation",
+  "capabilities_constraints": "Strengths: named executive sponsor, program manager, IT/security/data governance team, formal client-permissions review, separate approved test tenant, documented citation-check and human approval workflow, training budget, incident channel, and named operations owner are available for a PUBLIC/SYNTHETIC-DATA pilot. Open gaps: tool-specific evaluator benchmark and measured reviewer time at volume are not yet complete; client contractual permission and vendor retention terms for confidential use remain unverified."
+}
